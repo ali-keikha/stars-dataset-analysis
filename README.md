@@ -76,8 +76,7 @@ Research question:
 * Python
 * Pandas
 * NumPy
-
-> Visualization notebooks using Matplotlib will be added in future updates.
+* Matplotlib
 
 ---
 
@@ -88,15 +87,6 @@ Research question:
 * Explore relationships between astronomical features
 * Build a data analysis portfolio through real-world projects
 
----
-
-##  Future Improvements
-
-* Add Matplotlib visualizations
-* Perform statistical hypothesis testing
-* Create correlation heatmaps
-* Add more advanced analyses and insights
-* Improve documentation and notebook explanations
 
 ---
 
